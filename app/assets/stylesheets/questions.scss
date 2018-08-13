@@ -1,0 +1,29 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+p {
+  font-family: avenir
+}
+
+h1 {
+  font-family: avenir
+}
+
+form {
+  font-family: avenir
+}
+
+br {
+  font-style: italic
+}
+
+.answer {
+  background-color: #FFFEE2;
+  border-left: 4px solid #DDDDDD;
+  padding-left: 4px;
+}
+
+.question {
+  border-left: 4px solid #DDDDDD;
+  padding-left: 4px;
+}
